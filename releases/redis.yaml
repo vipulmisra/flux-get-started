@@ -23,7 +23,7 @@ spec:
     usePassword: true
     image:
       repository: bitnami/redis
-      tag: 4.0.12
+      tag: 4.0.13
     service:
       type: ClusterIP
       port: 6379
